@@ -1,16 +1,17 @@
 
-Olá, me chamo Victor Hugo. Tenho 25 anos, moro e trabalho atualmente em São Paulo - Capital. Sou
-graduado em Análise e Desenvolvimento de Sistemas na Faculdade Impacta de Tecnologia
-(Formação no 2° semestre de 2020).
+Olá, me chamo Victor Hugo. Tenho 25 anos, sou graduado em Análise e Desenvolvimento de Sistemas na Faculdade Impacta de Tecnologia.
 
-Atualmente, eu estudo ferramentas voltadas para área de dados, tais como: PySpark, DataBricks,
-Airflow, AWS (EC2 - criação de Clusters), porém são experiências pessoais. Tenho projetos de
-ingestão, ETL, criação de Dataframes e conhecimentos em Power BI
+Sou Engenheiro de Dados Jr. tenho 3 anos de experiência como Desenvolvedor Python.
+Conhecimentos técnicos:
+- Background sólido em DevOps, 
+- Big Data
+- ETL, ELT (Desenvolvimento de Pipelines de Dados)
+- Bancos de Dados (PostgreSql, MySQL, SQL Server)
+- Apache Spark (Pyspark)
+- Apache Hop
+- Hadoop, Hive, Yarn, MapReduce
+- Airflow
+- AWS
 
-Sou uma pessoa altamente comprometida com minhas responsabilidades, corro atrás ao máximo
-para entregar resultados. Amo me sentir desafiado e concluir meus desafios. Estou numa linha
-constante de aprendizados e isso é um ponto que estou sempre melhorando. Sou animado e não
-desisto fácil dos meus objetivos. Quando aprendo algo, eu quero sempre disseminar meus
-conhecimentos.
-
- Como me achar: https://www.linkedin.com/in/victor-hugo-dos-santos-6023081b1/  e-mail: victorhugodostos@gmail.com
+Aqui no meu Git, sempre posto novos aprendizados e experiências.
+Como me achar: https://www.linkedin.com/in/victor-hugo-dos-santos-6023081b1/  e-mail: victorhugodostos@gmail.com
