@@ -9,7 +9,7 @@
 Paulistano, 26 anos, Graduado em Análise de Sistemas e Pós-Graduando em Data Analytics.  
   
 
-- 🔭 Trabalho como Técnico em Manutenção e Suporte de TI, desde 2014  
+- Trabalho como Técnico em Manutenção e Suporte de TI, desde 2014  
   
 
 - Aqui você encontra projetos de [Dados](https://github.com/victorhugodostos/dados)  
